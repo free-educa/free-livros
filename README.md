@@ -1,6 +1,6 @@
 
-<h1 align="center">
-## 🌈 "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível."
+<h2 align="center">
+🌈 "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível."
 </h1>
 
 <h1 align="center">
