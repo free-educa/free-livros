@@ -16,7 +16,7 @@ propriedade intelectual de forma totalmente gratuita, por acreditar que o
 conhecimento e a educação devem ser acessíveis e livres a toda e qualquer
 pessoa.
 
-## 😡 Nota de repudio
+## 😡 Nota de Repúdio
 
 <strong>Se você tem meios financeiros para comprar o livro, recomendamos fortemente a compra, pois ajuda a ter cada vez mais conteúdo de qualidade, este repositório é para pessoas que não podem comprar livros ou mesmo para pessoas que não sabem se vale a pena comprar .</strong>
 
