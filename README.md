@@ -1,3 +1,6 @@
+
+## 🌈 "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível."
+
 <h1 align="center">
     <img alt="Free Livros" title="#delicinha" src="https://images.all-free-download.com/images/graphicthumb/tree_with_book_creative_vector_587261.jpg" width="200px" />
 </h1>
@@ -5,9 +8,6 @@
 <h4 align="center">
  <b>Acredita que a educação deva ser acessível a todos?</b>
 </h4>
-
-## 🌈 "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível."
-
 
 ## 💻 Projeto
 
