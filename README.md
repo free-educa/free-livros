@@ -18,7 +18,7 @@ pessoa.
 
 <strong>Se você tem meios financeiros para comprar o livro, recomendamos fortemente a compra, pois ajuda a ter cada vez mais conteúdo de qualidade, este repositório é para pessoas que não podem comprar livros ou mesmo para pessoas que não sabem se vale a pena comprar .</strong>
 
-## "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível."
+## 🌈 "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível."
 
 ## 🤔 Como contribuir
 
