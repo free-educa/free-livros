@@ -24,9 +24,9 @@ pessoa.
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Cria uma branch com a sua feature: `git checkout -b eu-acredito`;
+- Faça commit das suas alterações: `git commit -m 'conhecimento e educao para todos'`;
+- Faça push para a sua branch: `git push origin eu-acredito`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
