@@ -6,45 +6,16 @@
  <b>Acredita que a educação deva ser acessível a todos?</b>
 </h4>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
-</p>
-
-## :rocket: Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
 
 ## 💻 Projeto
 
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+O Free Livros disponibiliza conteúdo de dominio publico e 
+propriedade intelectual de forma totalmente gratuita, por acreditar que o
+conhecimento e a educação devem ser acessíveis e livres a toda e qualquer
+pessoa.
+<strong>Se você tem meios financeiros para comprar o livro, recomendamos fortemente a compra, pois ajuda a ter cada vez mais conteúdo de qualidade, este repositório é para pessoas que não podem comprar livros ou mesmo para pessoas que não sabem se vale a pena comprar .</strong>
 
-## 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
-As organizações não governamentais <b>(ONGs)</b> são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: <b>direitos humanos</b>, <b>direitos animais</b>, <b>direitos indígenas</b>, <b>gênero</b>, <b>luta contra o racismo</b>, <b>meio ambiente</b>, <b>questões urbanas</b>, <b>imigrantes</b>, entre muitos outros.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+## "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível."
 
 ## 🤔 Como contribuir
 
