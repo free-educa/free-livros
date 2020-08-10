@@ -18,7 +18,7 @@ pessoa.
 
 ## 😡 Nota de Repúdio
 
-<strong>Se você tem meios financeiros para comprar o livro, recomendamos fortemente a compra, pois ajuda a ter cada vez mais conteúdo de qualidade, este repositório é para pessoas que não podem comprar livros ou mesmo para pessoas que não sabem se vale a pena comprar .</strong>
+<strong>Se você tem meios financeiros para comprar o livro, recomendamos fortemente a compra, pois ajuda a ter cada vez mais conteúdo de qualidade, este repositório é para pessoas que não podem pagar pelos livros.</strong>
 
 
 ## 🤔 Como contribuir
