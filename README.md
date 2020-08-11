@@ -23,7 +23,9 @@ pessoa.
 
 ## 🤔 Como contribuir
 - Adicione arquivos via upload
-OU
+
+Ou
+
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b eu-acredito`;
 - Faça commit das suas alterações: `git commit -m 'conhecimento e educao para todos'`;
