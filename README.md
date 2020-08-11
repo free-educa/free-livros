@@ -24,7 +24,7 @@ pessoa.
 ## 🤔 Como contribuir
 - Adicione arquivos via upload
 
-Ou
+  Ou
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b eu-acredito`;
