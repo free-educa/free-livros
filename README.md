@@ -28,7 +28,7 @@ pessoa.
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b eu-acredito`;
-- Faça commit das suas alterações: `git commit -m 'conhecimento e educao para todos'`;
+- Faça commit das suas alterações: `git commit -m 'conhecimento e educacao para todos'`;
 - Faça push para a sua branch: `git push origin eu-acredito`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
