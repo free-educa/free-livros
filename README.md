@@ -64,7 +64,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       <br />
       <a href="#content-danrigoni" title="Content">🚀</a>
     </td>
-
     <td align="center">
       <a href="https://github.com/Hellyson-Ferreira">
         <img 
@@ -80,8 +79,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       <br />
       <a href="#content-Hellyson-Ferreira" title="Content">🚀</a>
     </td>
-
-
     <!-- EXEMPLO DE CONTRIBUIDOR -->
     <!-- <td align="center">
       <a href="{LINK DE PERFIL}">
