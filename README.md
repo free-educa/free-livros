@@ -49,7 +49,55 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danrigoni"><img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4" width="100px;" alt=""/><br /><sub><b>Carlos Daniel Rigoni</b></sub></a><br /><a href="#content-danrigoni" title="Content">🖋</a></td>
+    <td align="center">
+      <a href="https://github.com/danrigoni">
+        <img 
+          src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
+          width="100px;"
+          alt="danrigoni"
+          />
+        <br />
+        <sub>
+          <b>Carlos Daniel Rigoni</b>
+        </sub>
+      </a>
+      <br />
+      <a href="#content-danrigoni" title="Content">🚀</a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/Hellyson-Ferreira">
+        <img 
+          src="https://avatars3.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4"
+          width="100px;"
+          alt="Hellyson Ferreira"
+          />
+        <br />
+        <sub>
+          <b>Hellyson Ferreira</b>
+        </sub>
+      </a>
+      <br />
+      <a href="#content-Hellyson-Ferreira" title="Content">🚀</a>
+    </td>
+
+
+    <!-- EXEMPLO DE CONTRIBUIDOR -->
+    <!-- <td align="center">
+      <a href="{LINK DE PERFIL}">
+        <img 
+          src="{LINK DE FOTO DE PERFIL}"
+          width="100px;"
+          alt="{NOME DE USUARIO}" 
+          />
+        <br />
+        <sub>
+          <b>{NOME DE USUARIO}</b>
+        </sub>
+      </a>
+      <br />
+      <a href="#content-{NOME-DE-USUARIO}" title="Content">🚀</a>
+    </td> -->
   </tr>
 </table>
 
