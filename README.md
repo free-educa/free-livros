@@ -263,7 +263,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     </td>
     </tr>
     <tr>
-    <td align="center">
+    <td align="center" 
       <a href="https://github.com/DheCastro">
         <img 
           src="https://avatars1.githubusercontent.com/u/12981838?s=460&u=84a11e2ea102b8c4ad6cdaf69e84c3d92039907e&v=4"
