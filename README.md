@@ -154,6 +154,8 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       <br />
       <a href="#content-Rui-code" title="Content">🚀</a>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/MagicalStrangeQuark">
         <img 
@@ -259,6 +261,8 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       <br />
       <a href="#content-anisberto" title="Content">🚀</a>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/DheCastro">
         <img 
@@ -274,6 +278,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       <br />
       <a href="#content-DheCastro" title="Content">🚀</a>
     </td>
+    </tr>
     <!-- EXEMPLO DE CONTRIBUIDOR -->
     <!-- <td align="center">
       <a href="{LINK DE PERFIL}">
