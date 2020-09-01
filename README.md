@@ -79,8 +79,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       <br />
       <a href="#content-Hellyson-Ferreira" title="Content">🚀</a>
     </td>
-
-
     <!-- EXEMPLO DE CONTRIBUIDOR -->
     <!-- <td align="center">
       <a href="{LINK DE PERFIL}">
