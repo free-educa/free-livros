@@ -1,0 +1,3 @@
+[submodule "algorithm-books"]
+	path = algorithm-books
+	url = https://github.com/danrigoni/algorithm-books.git
