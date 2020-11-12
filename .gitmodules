@@ -1,3 +1,87 @@
 [submodule "Arquitetura-de-Computadores"]
 	path = Arquitetura-de-Computadores
 	url = https://github.com/free-educa/computer-architecture-books
+[submodule "Asp.NET-Core"]
+	path = Asp.NET-Core
+	url = https://github.com/free-educa/asp-net-books.git
+[submodule "Banco-de-Dados"]
+	path = Banco-de-Dados
+	url = https://github.com/free-educa/database-books
+[submodule "C-C++-C#"]
+	path = "C-C++-C#"
+	url = https://github.com/free-educa/c-languages-books.git
+[submodule "Calculos"]
+	path = Calculos
+	url = https://github.com/free-educa/calculus-books.git
+[submodule "VBA"]
+	path = VBA
+	url = https://github.com/free-educa/vba-books
+[submodule "Shell-Script"]
+	path = Shell-Script
+	url = https://github.com/free-educa/shell-script-books
+[submodule "Ruby-books"]
+	path = Ruby-books
+	url = https://github.com/free-educa/ruby-books
+[submodule "Python-books"]
+	path = Python-books
+	url = https://github.com/free-educa/python-books
+[submodule "Arquitetura-de-software"]
+	path = Arquitetura-de-software
+	url = https://github.com/free-educa/programming-architecture-books
+[submodule "php-books"]
+	path = php-books
+	url = https://github.com/free-educa/php-books
+[submodule "outros-books"]
+	path = outros-books
+	url = https://github.com/free-educa/others-programming-books
+[submodule "sistema-operacionais"]
+	path = sistema-operacionais
+	url = https://github.com/free-educa/operational-systems-books
+[submodule "NodeJS"]
+	path = NodeJS
+	url = https://github.com/free-educa/nodejs-books
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/free-educa/mobile-books
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/free-educa/javascript-books
+[submodule "java"]
+	path = java
+	url = https://github.com/free-educa/java-books
+[submodule "IA-Machine-Learning"]
+	path = IA-Machine-Learning
+	url = https://github.com/free-educa/ia-machine-learning-books
+[submodule "Go"]
+	path = Go
+	url = https://github.com/free-educa/go-books
+[submodule "Git-Github"]
+	path = Git-Github
+	url = https://github.com/free-educa/git-github-books
+[submodule "games"]
+	path = games
+	url = https://github.com/free-educa/games-books
+[submodule "Rede-de-Computadores"]
+	path = Rede-de-Computadores
+	url = https://github.com/free-educa/embedded-system-books
+[submodule "Data-Science"]
+	path = Data-Science
+	url = https://github.com/free-educa/data-science-books
+[submodule "Seguranca-da-informacao"]
+	path = Seguranca-da-informacao
+	url = https://github.com/free-educa/Information-security-books
+[submodule "criptografia"]
+	path = criptografia
+	url = https://github.com/free-educa/cryptography-books
+[submodule "Computacao-Grafica"]
+	path = Computacao-Grafica
+	url = https://github.com/free-educa/computer-graphics-books
+[submodule "compiladores"]
+	path = compiladores
+	url = https://github.com/free-educa/compilers-books
+[submodule "testes"]
+	path = testes
+	url = https://github.com/free-educa/tests-books
+[submodule "web"]
+	path = web
+	url = https://github.com/free-educa/web-books
