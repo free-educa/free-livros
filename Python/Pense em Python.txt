@@ -1,2 +1,0 @@
-Link para o livro Pense em Python, de Allen B. Downey:
-https://github.com/PenseAllen/PensePython2e
