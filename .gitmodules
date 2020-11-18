@@ -13,3 +13,78 @@
 [submodule "programming-architecture-books"]
 	path = programming-architecture-books
 	url = https://github.com/free-educa/programming-architecture-books
+[submodule "php-book"]
+	path = php-book
+	url = https://github.com/free-educa/php-books
+[submodule "others-programming-books"]
+	path = others-programming-books
+	url = https://github.com/free-educa/others-programming-books
+[submodule "operational-systems-books"]
+	path = operational-systems-books
+	url = https://github.com/free-educa/operational-systems-books
+[submodule "nodejs-books"]
+	path = nodejs-books
+	url = https://github.com/free-educa/nodejs-books
+[submodule "mobile-books"]
+	path = mobile-books
+	url = https://github.com/free-educa/mobile-books
+[submodule "javascript-books"]
+	path = javascript-books
+	url = https://github.com/free-educa/javascript-books
+[submodule "java-books"]
+	path = java-books
+	url = https://github.com/free-educa/java-books
+[submodule "ia-machine-learning-books"]
+	path = ia-machine-learning-books
+	url = https://github.com/free-educa/ia-machine-learning-books
+[submodule "git-github-books"]
+	path = git-github-books
+	url = https://github.com/free-educa/go-books
+[submodule "games-books"]
+	path = games-books
+	url = https://github.com/free-educa/games-books
+[submodule "embedded-system-books"]
+	path = embedded-system-books
+	url = https://github.com/free-educa/embedded-system-books
+[submodule "database-books"]
+	path = database-books
+	url = https://github.com/free-educa/database-books
+[submodule "data-science-books"]
+	path = data-science-books
+	url = https://github.com/free-educa/data-science-books
+[submodule "Information-security-books"]
+	path = Information-security-books
+	url = https://github.com/free-educa/Information-security-books
+[submodule "cryptography-books"]
+	path = cryptography-books
+	url = https://github.com/free-educa/cryptography-books
+[submodule "computer-network-books"]
+	path = computer-network-books
+	url = https://github.com/free-educa/computer-network-books
+[submodule "computer-graphics-books"]
+	path = computer-graphics-books
+	url = https://github.com/free-educa/computer-graphics-books
+[submodule "computer-architecture-books"]
+	path = computer-architecture-books
+	url = https://github.com/free-educa/computer-architecture-books
+[submodule "calculus-books"]
+	path = calculus-books
+	url = https://github.com/free-educa/calculus-books
+[submodule "compilers-books"]
+	path = compilers-books
+	url = https://github.com/free-educa/compilers-books
+[submodule "tests-books"]
+	path = tests-books
+	url = https://github.com/free-educa/tests-books
+[submodule "c-languages-books"]
+	path = c-languages-books
+	url = https://github.com/free-educa/c-languages-books
+[submodule "asp-net-books"]
+	path = asp-net-books
+	url = https://github.com/free-educa/asp-net-books
+[submodule "algorithm-book"]
+	path = algorithm-book
+	url = https://github.com/free-educa/algorithm-books
+[submodule "web-books"]
+	path = web-books
+	url = https://github.com/free-educa/web-books
