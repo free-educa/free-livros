@@ -172,7 +172,7 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [Java SE 7 Programmer I - O guia para sua certificação Oracle Certified Associate](https://drive.google.com/file/d/1D43ejceNU_Mf5wxiJZOMLZnhQ8IMExDZ/view?usp=sharing)
 - [Java SE 8 Programmer I - O guia para sua certificação Oracle Certified Associate](https://drive.google.com/file/d/13ALECWCPK9ClbPxmcBNzGpC-_zsIkox_/view?usp=sharing)
 - [JavaFX - Interfaces com qualidade para aplicacoes desktop](https://drive.google.com/file/d/1po_leKdy_xuT_fXnodsPHZDiRDSuRcNI/view?usp=sharing)
-- [Jenkins -  Automatize tudo sem complicacoes](https://drive.google.com/file/d/1obf8i2h61MCayiDoyCaa-GUKx7NZEyi8/view?usp=sharing)
+- [Jenkins - Automatize tudo sem complicacoes](https://drive.google.com/file/d/1obf8i2h61MCayiDoyCaa-GUKx7NZEyi8/view?usp=sharing)
 - [Jogos Android - Crie um game do zero usando classes nativas](https://drive.google.com/file/d/1DxO_-wKuuT4zrsGlp1pHKgUCZc8xS8EB/view?usp=sharing)
 - [Jogos em HTML5 Explore o mobile e física](https://drive.google.com/file/d/1GWzKmi30Zr1clWzuZYkV52Ty4FT_cmCm/view?usp=sharing)
 - [JPA Eficaz - As melhores praticas de persistencia de dados em Java](https://drive.google.com/file/d/1QKjdrmi4L2EWkLZ90MMa3hix4Qx_Heuk/view?usp=sharing)
@@ -220,7 +220,7 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [SQL - Uma abordagem para bancos de dados Oracle](SQL - Uma abordagem para bancos de dados Oracle)
 - [Swift Programe para iPhone e iPad](Swift Programe para iPhone e iPad)
 - [Test-Driven Development - Teste e Design no Mundo Real com .Net](Test-Driven Development - Teste e Design no Mundo Real com .Net)
-<--
+<!--
 - [name](link)
 
 ### compiladores
