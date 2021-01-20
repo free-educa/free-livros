@@ -83,7 +83,10 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [Explorando APIs e bibliotecas Java JDBC, IO, Threads, JavaFX e mais](https://github.com/free-educa/books/blob/main/books/Explorando%20APIs%20e%20bibliotecas%20Java%20JDBC%2C%20IO%2C%20Threads%2C%20JavaFX%20e%20mais%20-%20Casa%20do%20Codigo.pdf)
 - [Explorando APIs e bibliotecas Java JDBC, IO, Threads, JavaFX e mais](https://github.com/free-educa/books/blob/main/books/Explorando%20APIs%20e%20bibliotecas%20Java%20JDBC%2C%20IO%2C%20Threads%2C%20JavaFX%20e%20mais.pdf)
 - [Falando de Grails Altíssima produtividade no desenvolvimento web](https://github.com/free-educa/books/blob/main/books/Falando%20de%20Grails%20Alt%C3%ADssima%20produtividade%20no%20desenvolvimento%20web%20-%20Casa%20do%20Codigo.pdf)
-<!-- - [name](link)
+- [Fragmentos de um programador - Artigos e insights da carreira de um profissional.pdf](link)
+- [Gestão de produtos - Como aumentar as chances de sucesso do seu software.pdf](/free-educa/books/blob/main/books/Gest%C3%A3o%20de%20produtos%20-%20Como%20aumentar%20as%20chances%20de%20sucesso%20do%20seu%20software.pdf)
+- [Google Android - crie aplicações para celulares e tablets - Casa do Codigo.pdf](/free-educa/books/blob/main/books/Google%20Android%20-%20crie%20aplica%C3%A7%C3%B5es%20para%20celulares%20e%20tablets%20-%20Casa%20do%20Codigo.pdf)
+<!--
 - [name](link)
 - [name](link)
 - [name](link)
@@ -377,9 +380,8 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [name](link)
 - [name](link)
 - [name](link)
-- [name](link)
-- [name](link)
-- [name](link) -->
+- [name](link) 
+ -->
 
 ### Contribuidores ✨
 
