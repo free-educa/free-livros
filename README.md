@@ -83,6 +83,7 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [Explorando APIs e bibliotecas Java JDBC, IO, Threads, JavaFX e mais](https://github.com/free-educa/books/blob/main/books/Explorando%20APIs%20e%20bibliotecas%20Java%20JDBC%2C%20IO%2C%20Threads%2C%20JavaFX%20e%20mais%20-%20Casa%20do%20Codigo.pdf)
 - [Explorando APIs e bibliotecas Java JDBC, IO, Threads, JavaFX e mais](https://github.com/free-educa/books/blob/main/books/Explorando%20APIs%20e%20bibliotecas%20Java%20JDBC%2C%20IO%2C%20Threads%2C%20JavaFX%20e%20mais.pdf)
 - [Falando de Grails Altíssima produtividade no desenvolvimento web](https://github.com/free-educa/books/blob/main/books/Falando%20de%20Grails%20Alt%C3%ADssima%20produtividade%20no%20desenvolvimento%20web%20-%20Casa%20do%20Codigo.pdf)
+<!-- - [name](link)
 - [name](link)
 - [name](link)
 - [name](link)
@@ -378,8 +379,7 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [name](link)
 - [name](link)
 - [name](link)
-- [name](link)
-- [name](link)
+- [name](link) -->
 
 ### Contribuidores ✨
 
