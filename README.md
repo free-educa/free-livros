@@ -92,9 +92,7 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [Kubernetes na Prática - UNICIV](https://drive.google.com/file/d/1kLNQWalwPZdlWk4N-L_ecN3185cAZBob/view?usp=sharing)
 - [Java 8 Prático - Casa do Código](https://drive.google.com/file/d/1zUXA60i5Gv0s61bM3PMGUbxvHNdOMwUy/view?usp=sharing)
 - [Java 9 - Casa do Código](https://drive.google.com/file/d/1QhA56VLdsmBuq-YdTOczhi4jTJHC9KM0/view?usp=sharing)
-- [Programando em Go: Crie aplicações com a lingaugem do Google - Casa do Código](https://drive.google.com/file/d/186rs4bT5cv2XsIy9kRjfKhiBy_aLIH4c/view?usp=sharing)
 - [Spring Boot: Da API REST aos Microservices - Michelli Brito](https://drive.google.com/file/d/1AX4ZrFCtlqJ20dqf9yzSkDgyLtM-9JFA/view?usp=sharing)
-- [SQL: Uma abordagem para banco de dados Oracle - Casa do Código](https://drive.google.com/file/d/1QGT8ZpeD9jFmI-xLKWnGKYoQNFfMtWef/view?usp=sharing)
 <!--
 - [name](link)
 - [name](link)
