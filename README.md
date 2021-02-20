@@ -616,7 +616,7 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
     </td>
     </tr>
     <tr>
-    <td align="center"
+    <td align="center">
       <a href="https://github.com/DheCastro">
         <img
           src="https://avatars1.githubusercontent.com/u/12981838?s=460&u=84a11e2ea102b8c4ad6cdaf69e84c3d92039907e&v=4"
@@ -630,6 +630,21 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       </a>
       <br />
       <a href="#content-DheCastro" title="Content">🚀</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/islanrodrigues">
+        <img
+          src="https://avatars.githubusercontent.com/u/8366406?s=460&u=0e92c429707ae3985df1487fe9c7fd7523cdc7bd&v=4"
+          width="100px;"
+          alt="Islan Rodrigues"
+          />
+        <br />
+        <sub>
+          <b>Islan Rodrigues</b>
+        </sub>
+      </a>
+      <br />
+      <a href="#content-islan-rodrigues" title="Content">🚀</a>
     </td>
     </tr>
     <!-- EXEMPLO DE CONTRIBUIDOR -->
