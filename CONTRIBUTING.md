@@ -27,7 +27,7 @@ Ao contribuir ou interagir com este projeto, evite usar qualquer idioma que não
 
 
  1. Edite o arquivo Readme.MD
- 2. Adicione ´´´-[nome do livro](link para acessar)´´´ na seção de livros.
+ 2. Adicione ```-[nome do livro](link para acessar)``` na seção de livros.
  3. se você tem o arquivo do livro, mas não o link, suba primeiro no [armazem de livros](https://github.com/free-educa/books/tree/main/books).
  
  
@@ -49,5 +49,6 @@ Ao contribuir ou interagir com este projeto, evite usar qualquer idioma que não
         </sub>
       </a>
     </td>
-  ``` na seção de contribuidores.
+  ``` 
+  na seção de contribuidores.
  
