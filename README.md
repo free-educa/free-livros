@@ -260,8 +260,6 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
           <b>Carlos Daniel Rigoni</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-danrigoni" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/tiagoGottardo">
@@ -275,8 +273,6 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
           <b>Tiago Panizio Gottardo</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-tiagoGottardo" title="Content">🚀</a>
     </td>
   </tr>
 </table>
@@ -303,8 +299,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Hellyson Ferreira</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-Hellyson-Ferreira" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/mateusfg7">
@@ -318,8 +312,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Mateus Felipe Gonçalves</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-mateusfg7" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/lucasromagnoli">
@@ -333,8 +325,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Lucas Ramos Romagnoli</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-lucasromagnoli" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/gabrielamenezes">
@@ -348,8 +338,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Gabriela Menezes</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-gabrielamenezes" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/brunosana">
@@ -363,8 +351,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>brunosana</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-brunosana" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/Rui-code">
@@ -378,8 +364,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Ruiran Oliveira</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-Rui-code" title="Content">🚀</a>
     </td>
     </tr>
     <tr>
@@ -395,8 +379,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Wesley Flôres</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-MagicalStrangeQuark" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/solenya1">
@@ -410,8 +392,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Gabriel Rodrigues</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-solenya1" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/raphaelbarbosaqwerty">
@@ -425,8 +405,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Ghost</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-raphaelbarbosaqwerty" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/gustavo-wanderley">
@@ -440,8 +418,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Gustavo Wanderley</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-gustavo-wanderley" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/gfda">
@@ -455,8 +431,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Gustavo Dias Alexandre</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-gfda" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/anisberto">
@@ -470,8 +444,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Anisberto dos Reis do Nascimento</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-anisberto" title="Content">🚀</a>
     </td>
     </tr>
     <tr>
@@ -487,8 +459,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Dhellano de Castro</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-DheCastro" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/islanrodrigues">
@@ -502,8 +472,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>Islan Rodrigues</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-islan-rodrigues" title="Content">🚀</a>
     </td>
     </tr>
     <!-- EXEMPLO DE CONTRIBUIDOR -->
@@ -519,8 +487,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
           <b>{NOME DE USUARIO}</b>
         </sub>
       </a>
-      <br />
-      <a href="#content-{NOME-DE-USUARIO}" title="Content">🚀</a>
     </td> -->
   </tr>
 </table>
