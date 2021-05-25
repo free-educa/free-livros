@@ -244,13 +244,7 @@ Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [b
 - [slyy138a.pdf](/free-educa/books/blob/main/books/slyy138a.pdf)
 - [wstg-v4.1.pdf](/free-educa/books/blob/main/books/wstg-v4.1.pdf)
 
-### Contribuidores ✨
-
-Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse repositório com suas contribuições 🎉
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+### Idealizadores ✨
 
 <table>
   <tr>
@@ -269,6 +263,34 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       <br />
       <a href="#content-danrigoni" title="Content">🚀</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/tiagoGottardo">
+        <img
+          src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
+          width="100px;"
+          alt="Tiago Panizio Gottardo"
+          />
+        <br />
+        <sub>
+          <b>Tiago Panizio Gottardo</b>
+        </sub>
+      </a>
+      <br />
+      <a href="#content-tiagoGottardo" title="Content">🚀</a>
+    </td>
+  </tr>
+</table>
+
+### Contribuidores ✨
+
+Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse repositório com suas contribuições 🎉
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
     <td align="center">
       <a href="https://github.com/Hellyson-Ferreira">
         <img
@@ -375,21 +397,6 @@ Agradecemos a todas essas pessoas maravilhosas, que nos ajudam a manter esse rep
       </a>
       <br />
       <a href="#content-MagicalStrangeQuark" title="Content">🚀</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tiagoGottardo">
-        <img
-          src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
-          width="100px;"
-          alt="Tiago Panizio Gottardo"
-          />
-        <br />
-        <sub>
-          <b>Tiago Panizio Gottardo</b>
-        </sub>
-      </a>
-      <br />
-      <a href="#content-tiagoGottardo" title="Content">🚀</a>
     </td>
     <td align="center">
       <a href="https://github.com/solenya1">
