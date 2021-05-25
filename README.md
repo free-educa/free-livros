@@ -9,7 +9,7 @@ pessoa.
 
 ### Como contribuir
 
-Por favor, leia [CONTRIBUINDO](/CONTRIBUTING.md). Se você é novo no GitHub, [bem-vindo](/HOWTO.md)!
+Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar tudo de como contribuir.
 
 ### Consciência social
 
