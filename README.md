@@ -1,4 +1,7 @@
 ## Free Livros
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
 
 Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível.
 
@@ -466,15 +469,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 ### Idealizadores ✨
 
-<style>
-  div {
-    display: flex;
-    flex-direction: row;
-  }
-</style>
-
 <div>
-
   <a href="https://github.com/danrigoni">
     <img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
       width="60px;" alt="danrigoni" style="padding: 5px;" />
