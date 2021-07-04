@@ -472,7 +472,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       <a href="https://github.com/danrigoni">
         <img
           src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
-          width="25px;"
+          width="50px;"
           alt="danrigoni"
           />
         <br />
@@ -482,7 +482,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       <a href="https://github.com/tiagoGottardo">
         <img
           src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
-          width="25px;"
+          width="50px;"
           alt="Tiago Panizio Gottardo"
           />
         <br />
@@ -501,7 +501,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/Hellyson-Ferreira">
         <img
           src="https://avatars3.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4"
-          width="25px;"
+          width="50px;"
           style="border-radius: 100%"
           alt="Hellyson Ferreira"
           />
@@ -511,7 +511,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/mateusfg7">
         <img
           src="https://avatars0.githubusercontent.com/u/40613276?s=460&u=876c1e765460672bcea6208f4d7e19edb8f17237&v=4"
-          width="25px;"
+          width="50px;"
           alt="Mateus Felipe Gonçalves"
           />
       </a>
@@ -520,7 +520,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/lucasromagnoli">
         <img
           src="https://avatars2.githubusercontent.com/u/20566858?s=460&u=1ebc4c265a21d70d3a0c155d9e026426bf0fabee&v=4"
-          width="25px;"
+          width="50px;"
           alt="Lucas Ramos Romagnoli"
           />
       </a>
@@ -529,7 +529,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/gabrielamenezes">
         <img
           src="https://avatars3.githubusercontent.com/u/64161478?s=460&u=1356f8b491eecccaeb9afb16c34beb8a00c75cf3&v=4"
-          width="25px;"
+          width="50px;"
           alt="Gabriela Menezes"
           />
       </a>
@@ -538,7 +538,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/brunosana">
         <img
           src="https://avatars1.githubusercontent.com/u/39919020?s=460&v=4"
-          width="25px;"
+          width="50px;"
           alt="brunosana"
           />
       </a>
@@ -547,7 +547,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/Rui-code">
         <img
           src="https://avatars3.githubusercontent.com/u/55000714?s=460&u=96c9f8649132a1b07c7016597d1f0bdfbd4ef056&v=4"
-          width="25px;"
+          width="50px;"
           alt="Ruiran Oliveira"
           />
       </a>
@@ -558,7 +558,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/MagicalStrangeQuark">
         <img
           src="https://avatars2.githubusercontent.com/u/49111142?s=460&u=1d9e3fb6724c7141793c67760847255de73cdb4a&v=4"
-          width="25px;"
+          width="50px;"
           alt="Wesley Flôres"
           />
       </a>
@@ -567,7 +567,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/solenya1">
         <img
           src="https://avatars0.githubusercontent.com/u/64572684?s=460&u=3c846adcc8a7594ff0ddc7b801cf3e74eed20755&v=4"
-          width="25px;"
+          width="50px;"
           alt="Gabriel Rodrigues"
           />
       </a>
@@ -576,7 +576,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/raphaelbarbosaqwerty">
         <img
           src="https://avatars0.githubusercontent.com/u/15701673?s=460&u=c709269c8cfd4179cf134b0763c665e7ae265283&v=4"
-          width="25px;"
+          width="50px;"
           alt="Ghost"
           />
       </a>
@@ -585,7 +585,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/gustavo-wanderley">
         <img
           src="https://avatars0.githubusercontent.com/u/46036174?s=460&u=9b79532b4eaae207a12a7a524a1758ad64056ff6&v=4"
-          width="25px;"
+          width="50px;"
           alt="Gustavo Wanderley"
           />
       </a>
@@ -594,7 +594,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/gfda">
         <img
           src="https://avatars2.githubusercontent.com/u/41340663?s=460&u=275e2d152b7a60738ad83e0a42fe1d37b304c773&v=4"
-          width="25px;"
+          width="50px;"
           alt="Gustavo Dias Alexandre"
           />
       </a>
@@ -603,7 +603,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/anisberto">
         <img
           src="https://avatars3.githubusercontent.com/u/46682639?s=460&u=d6deb254a7ba108c465d3a1581550c156b6b476d&v=4"
-          width="25px;"
+          width="50px;"
           alt="Anisberto dos Reis do Nascimento"
           />
       </a>
@@ -614,7 +614,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/DheCastro">
         <img
           src="https://avatars1.githubusercontent.com/u/12981838?s=460&u=84a11e2ea102b8c4ad6cdaf69e84c3d92039907e&v=4"
-          width="25px;"
+          width="50px;"
           alt="Dhellano de Castro"
           />
       </a>
@@ -623,7 +623,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/islanrodrigues">
         <img
           src="https://avatars.githubusercontent.com/u/8366406?s=460&u=0e92c429707ae3985df1487fe9c7fd7523cdc7bd&v=4"
-          width="25px;"
+          width="50px;"
           alt="Islan Rodrigues"
           />
       </a>
@@ -634,7 +634,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="{LINK DE PERFIL}">
         <img
           src="{LINK DE FOTO DE PERFIL}"
-          width="25px;"
+          width="50px;"
           alt="{NOME DE USUARIO}"
           />
       </a>
