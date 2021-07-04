@@ -1,8 +1,4 @@
 ## Free Livros
-<head>
-<link rel="stylesheet" href="styles.css">
-</head>
-
 Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível.
 
 O Free Livros disponibiliza conteúdo de dominio publico e
@@ -470,15 +466,16 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ### Idealizadores ✨
 
 <div>
+
   <a href="https://github.com/danrigoni">
     <img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
-      width="60px;" alt="danrigoni" style="padding: 5px;" />
+      width="60px;" alt="danrigoni" />
     <br />
   </a>
 
   <a href="https://github.com/tiagoGottardo">
     <img src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
-      width="60px;" alt="Tiago Panizio Gottardo" style="padding: 5px;" />
+      width="60px;" alt="Tiago Panizio Gottardo" />
     <br />
   </a>
 
