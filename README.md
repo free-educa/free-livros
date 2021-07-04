@@ -469,20 +469,22 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
   <tr>
     <td>
       <a href="https://github.com/danrigoni">
-        <img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
+        <img
+          src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
           width="60px;" alt="danrigoni" />
         <br />
       </a>
       <td />
     <td>
       <a href="https://github.com/tiagoGottardo">
-        <img src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
+        <img
+          src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
           width="60px;" alt="Tiago Panizio Gottardo" />
         <br />
       </a>
       <td />
   <tr>
-<table>
+</table>
 
 ## Contribuidores
 
