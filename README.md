@@ -502,7 +502,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
         <img
           src="https://avatars3.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4"
           width="50px;"
-          style="border-radius: 100%"
+          style="border-radius: 100px"
           alt="Hellyson Ferreira"
           />
       </a>
