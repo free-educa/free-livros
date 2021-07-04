@@ -466,7 +466,14 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 ### Idealizadores ✨
 
-<div style="display: flex; flex-direction: row;">
+<style>
+  div {
+    display: flex;
+    flex-direction: row;
+  }
+</style>
+
+<div>
 
   <a href="https://github.com/danrigoni">
     <img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
