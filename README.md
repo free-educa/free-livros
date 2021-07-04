@@ -499,12 +499,9 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
   <tr>
     <td align="center">
       <a href="https://github.com/Hellyson-Ferreira">
-        <img
-          src="https://avatars3.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4"
-          width="50px;"
-          style="border-radius: 100px"
-          alt="Hellyson Ferreira"
-          />
+        <img src="https://avatars3.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4"
+  width="50px;" style="border-radius: 100%;" alt="Hellyson Ferreira" />
+
       </a>
     </td>
     <td align="center">
