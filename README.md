@@ -471,7 +471,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
     <td align="center">
       <a href="https://github.com/danrigoni">
         <img
-          src="https://avatars0.githubusercontent.com/u/59875567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
+          src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
           width="100px;"
           alt="danrigoni"
           />
@@ -481,7 +481,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
     <td align="center">
       <a href="https://github.com/tiagoGottardo">
         <img
-          src="https://avatars0.githubusercontent.com/u/75255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
+          src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
           width="100px;"
           alt="Tiago Panizio Gottardo"
           />
@@ -534,7 +534,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
     <td style="border-radius: 100%;">
       <a href="https://github.com/Rui-code">
         <img
-          src="https://avatars3.githubusercontent.com/u/57500714?s=460&u=96c9f8649132a1b07c7016597d1f0bdfbd4ef056&v=4"
+          src="https://avatars3.githubusercontent.com/u/55000714?s=460&u=96c9f8649132a1b07c7016597d1f0bdfbd4ef056&v=4"
           width="100px;" style="border-radius: 100% !important;" alt="Ruiran Oliveira" />
       </a>
     </td>
@@ -576,7 +576,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
     <td style="border-radius: 100%;">
       <a href="https://github.com/anisberto">
         <img
-          src="https://avatars3.githubusercontent.com/u/46682639?s=460&u=d6deb254a7ba108c465d3a1581575c156b6b476d&v=4"
+          src="https://avatars3.githubusercontent.com/u/46682639?s=460&u=d6deb254a7ba108c465d3a1581550c156b6b476d&v=4"
           width="100px;" style="border-radius: 100% !important;" alt="Anisberto dos Reis do Nascimento" />
       </a>
     </td>
@@ -608,6 +608,7 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
     </td> -->
   </tr>
 </table>
+
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
