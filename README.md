@@ -525,6 +525,16 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
         <img src="https://avatars1.githubusercontent.com/u/39919020?s=460&v=4" width="100px;" alt="brunosana" />
       </a>
     </td>
+    <td align="center">
+    <a href="https://github.com/soaresinfosec>
+      <img
+        src="https://avatars.githubusercontent.com/u/53843918?v=4" width="100px;" alt="sergio" />
+      <br />
+      <sub>
+        <b>sergio</b>
+      </sub>
+    </a>
+  </td>
     <td>
       <a href="https://github.com/Rui-code">
         <img
