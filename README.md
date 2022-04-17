@@ -21,6 +21,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 ### Livros
 
+- [(Albert Paul Malvino_ David J. Bates - Eletrônica Volume 2)](https://github.com/soaresinfosec/books/blob/main/books/Albert%20Paul%20Malvino_%20David%20J.%20Bates%20-%20Eletr%C3%B4nica%20Volume%202.pdf)
+
 - [(Arduino Descomplicado) Claudio Luis Vieira Oliveira* Humberto Augusto Piovesana Zanetti - Arduino Descomplicado* Como Elaborar Projetos de Eletrônica-Érica (2015)](<https://github.com/free-educa/books/blob/main/books/(Arduino%20Descomplicado)%20Claudio%20Luis%20Vieira%20Oliveira_%20Humberto%20Augusto%20Piovesana%20Zanetti%20-%20Arduino%20Descomplicado_%20Como%20Elaborar%20Projetos%20de%20Eletr%C3%B4nica-%C3%89rica%20(2015).pdf>)
 
 - [(Embedded Technology) Chris Nagy - Embedded Systems Design Using the TI MSP430 Series-Newnes (2003)](<https://github.com/free-educa/books/blob/main/books/(Embedded%20Technology)%20Chris%20Nagy%20-%20Embedded%20Systems%20Design%20Using%20the%20TI%20MSP430%20Series-Newnes%20(2003).pdf>)
