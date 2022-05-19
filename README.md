@@ -608,6 +608,19 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
           width="100px;" alt="Islan Rodrigues" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/rafaelmaframg">
+        <img
+          src="https://avatars.githubusercontent.com/u/69654497?v=4"
+          width="100px;"
+          alt="Rafael Mafra"
+          />
+        <br />
+        <sub>
+          <b>Rafael Mafra</b>
+        </sub>
+      </a>
+    </td>
   </tr>
   <!-- EXEMPLO DE CONTRIBUIDOR -->
   <!-- <td >
