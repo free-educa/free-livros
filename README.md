@@ -175,6 +175,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Guia do Mestre Programador](https://github.com/free-educa/books/blob/main/books/Guia%20do%20Mestre%20Programador.pdf)
 
+- [Guia Mark Down para github](https://github.com/free-educa/books/blob/main/books/guia-markdown.pdf)
+
 - [Guilherme Silveira, Mário Amaral - Java SE 8 Programmer I - O guia para sua Certificação Oracle Certified Associate](https://github.com/free-educa/books/blob/main/books/Guilherme%20Silveira%2C%20M%C3%A1rio%20Amaral%20-%20Java%20SE%208%20Programmer%20I%20-%20O%20guia%20para%20sua%20Certifica%C3%A7%C3%A3o%20Oracle%20Certified%20Associate.pdf)
 
 - [HTML5 e CSS3 - Domine a web do futuro](https://github.com/free-educa/books/blob/main/books/HTML5%20e%20CSS3%20-%20Domine%20a%20web%20do%20futuro.pdf)
@@ -374,6 +376,10 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [Python - Escreva seus primeiros programas](https://github.com/free-educa/books/blob/main/books/Python%20-%20Escreva%20seus%20primeiros%20programas.pdf)
 
 - [Python_Programming](https://github.com/free-educa/books/blob/main/books/Python_Programming.pdf)
+
+- [Python The Complete Manual-Digital](https://github.com/free-educa/books/blob/main/books/PythonTheCompleteManualDigital.pdf)
+
+- [Python - Tkinter GUI Application](https://github.com/free-educa/books/blob/main/books/Tkinter%20GUI%20Application%20Development%20HOTSHOT.pdf)
 
 - [RSpec - Crie especificacoes executaveis em Ruby](https://github.com/free-educa/books/blob/main/books/RSpec%20-%20Crie%20especificacoes%20executaveis%20em%20Ruby.pdf)
 
@@ -600,6 +606,19 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <a href="https://github.com/islanrodrigues">
         <img src="https://avatars.githubusercontent.com/u/8366406?s=460&u=0e92c429707ae3985df1487fe9c7fd7523cdc7bd&v=4"
           width="100px;" alt="Islan Rodrigues" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rafaelmaframg">
+        <img
+          src="https://avatars.githubusercontent.com/u/69654497?v=4"
+          width="100px;"
+          alt="Rafael Mafra"
+          />
+        <br />
+        <sub>
+          <b>Rafael Mafra</b>
+        </sub>
       </a>
     </td>
   </tr>
