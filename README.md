@@ -624,6 +624,20 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       </a>
     </td>
   </tr>
+  <td align="center">
+    <a href="https://github.com/ed1rac">
+      <img
+        src="https://avatars.githubusercontent.com/u/10122659?v=4"
+        width="100px;"
+        alt="Edkallenn Lima"
+        />
+      <br />
+      <sub>
+        <b>Edkallenn Lima</b>
+      </sub>
+    </a>
+  </td>
+  
   <!-- EXEMPLO DE CONTRIBUIDOR -->
   <!-- <td >
       <a href="{LINK DE PERFIL}">
