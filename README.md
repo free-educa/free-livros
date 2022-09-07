@@ -161,6 +161,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Fragmentos de um programador - Artigos e insights da carreira de um profissional](https://github.com/free-educa/books/blob/main/books/Fragmentos%20de%20um%20programador%20-%20Artigos%20e%20insights%20da%20carreira%20de%20um%20profissional.pdf)
 
+- [Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java](https://github.com/ed1rac/books/blob/patch-1/books/324976285-Fundamentos-da-programacao-pascal-C-C-java-1-pdf.pdf)
+
 - [Gestão de produtos - Como aumentar as chances de sucesso do seu software](https://github.com/free-educa/books/blob/main/books/Gest%C3%A3o%20de%20produtos%20-%20Como%20aumentar%20as%20chances%20de%20sucesso%20do%20seu%20software.pdf)
 
 - [Google Android - crie aplicações para celulares e tablets](https://github.com/free-educa/books/blob/main/books/Google%20Android%20-%20crie%20aplica%C3%A7%C3%B5es%20para%20celulares%20e%20tablets%20-%20Casa%20do%20Codigo.pdf)
@@ -622,6 +624,20 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       </a>
     </td>
   </tr>
+  <td align="center">
+    <a href="https://github.com/ed1rac">
+      <img
+        src="https://avatars.githubusercontent.com/u/10122659?v=4"
+        width="100px;"
+        alt="Edkallenn Lima"
+        />
+      <br />
+      <sub>
+        <b>Edkallenn Lima</b>
+      </sub>
+    </a>
+  </td>
+  
   <!-- EXEMPLO DE CONTRIBUIDOR -->
   <!-- <td >
       <a href="{LINK DE PERFIL}">
