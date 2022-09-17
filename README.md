@@ -474,6 +474,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [wstg-v4.1](https://github.com/free-educa/books/blob/main/books/wstg-v4.1.pdf)
 - [Introdução à Programação em C++](https://luksamuk.codes/files/treinamento-cpp.pdf)
+- [Programação Básica em C++](https://www.inf.ufpr.br/ci208/NotasAula.pdf)
 
 ### Idealizadores ✨
 
