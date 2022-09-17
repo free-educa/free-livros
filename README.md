@@ -473,6 +473,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [slyy138a](https://github.com/free-educa/books/blob/main/books/slyy138a.pdf)
 
 - [wstg-v4.1](https://github.com/free-educa/books/blob/main/books/wstg-v4.1.pdf)
+- [Introdução à Programação em C++](https://luksamuk.codes/files/treinamento-cpp.pdf)
+- [Programação Básica em C++](https://www.inf.ufpr.br/ci208/NotasAula.pdf)
 
 ### Idealizadores ✨
 
@@ -634,6 +636,19 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       <br />
       <sub>
         <b>Edkallenn Lima</b>
+      </sub>
+    </a>
+  </td>
+    <td align="center">
+    <a href="https://github.com/all3yp">
+      <img
+        src="https://avatars.githubusercontent.com/u/29764688?v=4"
+        width="100px;"
+        alt="Alley Pereira"
+        />
+      <br />
+      <sub>
+        <b>Alley Pereira</b>
       </sub>
     </a>
   </td>
