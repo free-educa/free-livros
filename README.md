@@ -639,6 +639,19 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       </sub>
     </a>
   </td>
+    <td align="center">
+    <a href="https://github.com/all3yp">
+      <img
+        src="https://avatars.githubusercontent.com/u/29764688?v=4"
+        width="100px;"
+        alt="Alley Pereira"
+        />
+      <br />
+      <sub>
+        <b>Alley Pereira</b>
+      </sub>
+    </a>
+  </td>
   
   <!-- EXEMPLO DE CONTRIBUIDOR -->
   <!-- <td >
