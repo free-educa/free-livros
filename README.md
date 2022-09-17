@@ -473,6 +473,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [slyy138a](https://github.com/free-educa/books/blob/main/books/slyy138a.pdf)
 
 - [wstg-v4.1](https://github.com/free-educa/books/blob/main/books/wstg-v4.1.pdf)
+- [Introdução à Programação em C++](https://luksamuk.codes/files/treinamento-cpp.pdf)
 
 ### Idealizadores ✨
 
