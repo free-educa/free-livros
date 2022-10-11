@@ -57,6 +57,10 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Aurélio Marinho Jargas - Shell Script Profissional](https://github.com/free-educa/books/blob/main/books/Aur%C3%A9lio%20Marinho%20Jargas%20-%20Shell%20Script%20Profissional.pdf)
 
+- [C - Como Programar](https://github.com/0ortiz/books/blob/main/books/C-Como%20Programar..pdf)
+
+- [C - Completo e Total](https://github.com/0ortiz/books/blob/main/books/C-Completo-Total.pdf)
+
 - [C# e Orientação a Objetos - Caelum, FN-13](https://github.com/free-educa/books/blob/main/books/C%23%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Caelum%2C%20FN-13.pdf)
 
 - [CDI Integre as dependencias e contextos do seu codigo Java](https://github.com/free-educa/books/blob/main/books/CDI%20Integre%20as%20dependencias%20e%20contextos%20do%20seu%20codigo%20Java%20-%20Casa%20do%20Codigo.pdf)
@@ -652,6 +656,21 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       </sub>
     </a>
   </td>
+  <td align="center">
+    <a href="https://github.com/0ortiz">
+      <img
+        src="https://avatars.githubusercontent.com/u/98562355?v=4"
+        width="100px;"
+        alt="Wendel Ortiz"
+        />
+      <br />
+      <sub>
+        <b>0ortiz</b>
+      </sub>
+    </a>
+  </td>
+  
+  https://avatars.githubusercontent.com/u/98562355?v=4
   
   <!-- EXEMPLO DE CONTRIBUIDOR -->
   <!-- <td >
