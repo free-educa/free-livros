@@ -656,6 +656,21 @@ Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CON
       </sub>
     </a>
   </td>
+  <td align="center">
+    <a href="https://github.com/0ortiz">
+      <img
+        src="https://avatars.githubusercontent.com/u/98562355?v=4"
+        width="100px;"
+        alt="Wendel Ortiz"
+        />
+      <br />
+      <sub>
+        <b>0ortiz</b>
+      </sub>
+    </a>
+  </td>
+  
+  https://avatars.githubusercontent.com/u/98562355?v=4
   
   <!-- EXEMPLO DE CONTRIBUIDOR -->
   <!-- <td >
