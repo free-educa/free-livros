@@ -13,7 +13,7 @@ Aqui, temos um conjunto de instruções e diretrizes para reduzir mal-entendidos
 Ao contribuir ou interagir com este projeto, evite usar qualquer idioma que não seja o inglês para commits e branches, mas o português para readmes e issues.
 
 
-## Como ontribuir
+## Como contribuir
 
 
  1. Crie um fork (clicando na opção de fork no canto superior direito).
