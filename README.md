@@ -413,6 +413,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Aurélio Marinho Jargas - Shell Script Profissional](https://github.com/free-educa/books/blob/main/books/Aur%C3%A9lio%20Marinho%20Jargas%20-%20Shell%20Script%20Profissional.pdf)
 
+- [Blau Araújo - Pequeno Manual do Programador Bash](https://blauaraujo.com/downloads/pmpgb.pdf)
+
 ```markdown
 --- Sistemas:
 ```
@@ -652,6 +654,18 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://github.com/leandroembu">
+        <img
+          src="https://avatars.githubusercontent.com/u/3253741"
+          width="100px;"
+          alt="Leandro Ramos"
+          />
+          <sub>
+            <b>Leandro Ramos</b>
+          </sub>
+      </a>
+   </td>
     <td>
       <a href="https://github.com/Hellyson-Ferreira">
         <img
