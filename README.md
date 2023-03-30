@@ -743,6 +743,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
           </sub>
       </a>
     </td>
+    <tr>
     <td>
       <a href="https://github.com/MagicalStrangeQuark">
         <img
@@ -803,8 +804,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
           </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/DheCastro">
         <img
@@ -823,6 +822,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
             <b>Islan Rodrigues</b>
           </sub>
       </a>
+      </tr>
     </td>
     <td align="center">
       <a href="https://github.com/rafaelmaframg">
