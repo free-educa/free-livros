@@ -559,6 +559,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Luiz Eduardo Borges - Python para Desenvolvedores - 2° Edição](https://github.com/free-educa/books/blob/main/books/Luiz%20Eduardo%20Borges%20-%20Python%20para%20Desenvolvedores%20-%202%C2%B0%20Edi%C3%A7%C3%A3o.pdf)
 
+- [Python para Todos - Explorando Dados com Python]()
+
 ```markdown
 --- Ruby:
 ```
