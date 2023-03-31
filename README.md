@@ -559,6 +559,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Luiz Eduardo Borges - Python para Desenvolvedores - 2° Edição](https://github.com/free-educa/books/blob/main/books/Luiz%20Eduardo%20Borges%20-%20Python%20para%20Desenvolvedores%20-%202%C2%B0%20Edi%C3%A7%C3%A3o.pdf)
 
+- [Python para Todos - Explorando Dados com Python](https://github.com/g4nor4/books/blob/main/books/Python%20para%20Todos.pdf)
+
 ```markdown
 --- Ruby:
 ```
@@ -630,28 +632,36 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 ### Idealizadores ✨
 
+--------------------------
+<table>
   <tr>
-    <td>
-      <a href="https://github.com/danrigoni">
-        <img
-          src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"
-          width="70px;" alt="danrigoni" />
-      </a>
-      <td>
-    <td>
-      <a href="https://github.com/tiagoGottardo">
+    <td align="center">
+       <a href="https://github.com/danrigoni">
+         <img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"                width="100px;"alt="danrigoni" />
+     </br>
+     <sub>
+         <b>danrigoni</b>
+       </sub>
+     </a>
+   </td>
+   <td align="center">
+     <a href="https://github.com/tiagoGottardo">
         <img
           src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
-          width="70px;" alt="Tiago Panizio Gottardo" />
+          width="100px;"alt="Tiago Panizio Gottardo" />
+        </br>
+       <sub>
+        <b>Tiago Panizio Gottardo</b>
+      </sub>
       </a>
-      <td>
-  <tr>
-
+      </td>
+  
+  </tr>
+  </table>
 
 ## Contribuidores
 
 ### Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CONTRIBUTING.md)].
-
 <table>
   <tr>
     <td align="center">
@@ -671,6 +681,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars3.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4"
           width="100px;" alt="Hellyson Ferreira" />
+          <sub>
+            <b>Hellyson Ferreira</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -678,6 +691,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars0.githubusercontent.com/u/40613276?s=460&u=876c1e765460672bcea6208f4d7e19edb8f17237&v=4"
           width="100px;" alt="Mateus Felipe Gonçalves" />
+           <sub>
+            <b>Mateus Felipe Gonçalves</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -685,6 +701,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars2.githubusercontent.com/u/20566858?s=460&u=1ebc4c265a21d70d3a0c155d9e026426bf0fabee&v=4"
           width="100px;" alt="Lucas Ramos Romagnoli" />
+           <sub>
+            <b>Lucas Ramos Romagnoli</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -692,20 +711,25 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars3.githubusercontent.com/u/64161478?s=460&u=1356f8b491eecccaeb9afb16c34beb8a00c75cf3&v=4"
           width="100px;" alt="Gabriela Menezes" />
+        <sub>
+        <b>Gabriela Menezes</b>
+        </sub>
       </a>
     </td>
     <td>
       <a href="https://github.com/brunosana">
         <img src="https://avatars1.githubusercontent.com/u/39919020?s=460&v=4" width="100px;" alt="brunosana" />
+        <sub>
+            <b>Brunosana</b>
+          </sub>
       </a>
     </td>
     <td align="center">
     <a href="https://github.com/soaresinfosec">
       <img
         src="https://avatars.githubusercontent.com/u/53843918?v=4" width="100px;" alt="sergio" />
-      <br />
       <sub>
-        <b>sergio</b>
+        <b>Sergio</b>
       </sub>
     </a>
   </td>
@@ -714,13 +738,20 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars3.githubusercontent.com/u/55000714?s=460&u=96c9f8649132a1b07c7016597d1f0bdfbd4ef056&v=4"
           width="100px;" alt="Ruiran Oliveira" />
+          <sub>
+            <b>Ruiran Oliveira</b>
+          </sub>
       </a>
     </td>
+    <tr>
     <td>
       <a href="https://github.com/MagicalStrangeQuark">
         <img
           src="https://avatars2.githubusercontent.com/u/49111142?s=460&u=1d9e3fb6724c7141793c67760847255de73cdb4a&v=4"
           width="100px;" alt="Wesley Flôres" />
+          <sub>
+            <b>Wesley Flôres</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -728,6 +759,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars0.githubusercontent.com/u/64572684?s=460&u=3c846adcc8a7594ff0ddc7b801cf3e74eed20755&v=4"
           width="100px;" alt="Gabriel Rodrigues" />
+          <sub>
+            <b>Gabriel Rodrigues</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -735,6 +769,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars0.githubusercontent.com/u/15701673?s=460&u=c709269c8cfd4179cf134b0763c665e7ae265283&v=4"
           width="100px;" alt="Ghost" />
+          <sub>
+            <b>Ghost</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -742,6 +779,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars0.githubusercontent.com/u/46036174?s=460&u=9b79532b4eaae207a12a7a524a1758ad64056ff6&v=4"
           width="100px;" alt="Gustavo Wanderley" />
+          <sub>
+            <b>Gustavo Wanderley</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -749,6 +789,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars2.githubusercontent.com/u/41340663?s=460&u=275e2d152b7a60738ad83e0a42fe1d37b304c773&v=4"
           width="100px;" alt="Gustavo Dias Alexandre" />
+          <sub>
+            <b>Gustavo Dias Alexandre</b>
+          </sub>
       </a>
     </td>
     <td>
@@ -756,22 +799,30 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         <img
           src="https://avatars3.githubusercontent.com/u/46682639?s=460&u=d6deb254a7ba108c465d3a1581550c156b6b476d&v=4"
           width="100px" alt="Anisberto dos Reis do Nascimento" />
+          <sub>
+            <b>Anisberto dos Reis do Nascimento</b>
+          </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/DheCastro">
         <img
           src="https://avatars1.githubusercontent.com/u/12981838?s=460&u=84a11e2ea102b8c4ad6cdaf69e84c3d92039907e&v=4"
           width="100px;" alt="Dhellano de Castro" />
+          <sub>
+            <b>Dhellano de Castro</b>
+          </sub>
       </a>
     </td>
     <td>
       <a href="https://github.com/islanrodrigues">
         <img src="https://avatars.githubusercontent.com/u/8366406?s=460&u=0e92c429707ae3985df1487fe9c7fd7523cdc7bd&v=4"
           width="100px;" alt="Islan Rodrigues" />
+          <sub>
+            <b>Islan Rodrigues</b>
+          </sub>
       </a>
+      </tr>
     </td>
     <td align="center">
       <a href="https://github.com/rafaelmaframg">
@@ -780,13 +831,11 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
           width="100px;"
           alt="Rafael Mafra"
           />
-        <br />
         <sub>
           <b>Rafael Mafra</b>
         </sub>
       </a>
     </td>
-  </tr>
   <td align="center">
     <a href="https://github.com/ed1rac">
       <img
@@ -794,8 +843,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         width="100px;"
         alt="Edkallenn Lima"
         />
-      <br />
-      <sub>
+        <sub>
         <b>Edkallenn Lima</b>
       </sub>
     </a>
@@ -807,7 +855,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         width="100%"
         alt="Alley Pereira"
         />
-      <br />
       <sub>
         <b>Alley Pereira</b>
       </sub>
@@ -820,7 +867,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         width="100px;"
         alt="Wendel Ortiz"
         />
-      <br />
       <sub>
         <b>0ortiz</b>
       </sub>
@@ -832,15 +878,30 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       <img
         src="https://avatars.githubusercontent.com/u/53500223?v=4"
         width="100px;"
-        alt="Wendel Ortiz"
+        alt="Lemostrash"
         />
       <sub>
         <b>Lemostrash</b>
       </sub>
     </a>
   </td>
+<td align="center">
+    <a href="https://github.com/g4nor4">
+      <img
+        src="https://avatars.githubusercontent.com/u/90690022?v=4"
+        width="100px;"
+        alt="Gabi Nora"
+        />
+      <sub>
+        <b>Nora</b>
+      </sub>
+    </a>
+  </td>
 
-  
+
+<!-- ------INSIRA SUA CONTRIBUICAO ACIMA DESTA LINHA -->
+</table>
+ </tr>
   
   <!-- EXEMPLO DE CONTRIBUIDOR -->
   <!-- <td >
@@ -849,7 +910,10 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
           src="{LINK DE FOTO DE PERFIL}"
           width="100px;"
           alt="{NOME DE USUARIO}"
-          />
+         />
+        <sub>
+        <b>NOME DE USUARIO</b>
+        </sub>
       </a>
     </td> -->
   </tr>
