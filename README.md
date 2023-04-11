@@ -563,7 +563,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 
 ```markdown
---- Requisitos de software
+--- Requisitos de Software:
 ```
 - [User Stories Appplied](https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf)
 - [Agile Software Requirements Lean Requirements Practices for Teams, Programs, and the Enterprise](https://github.com/free-educa/books/blob/main/books/Agile%20Software%20Requirements%20Lean%20Requirements%20Practices%20for%20Teams%2C%20Programs%2C%20and%20the%20Enterprise%20by%20Dean%20Leffingwell%20(z-lib.org).pdf)
