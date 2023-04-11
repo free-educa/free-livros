@@ -904,6 +904,18 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       </sub>
     </a>
   </td>
+  <td align="center">
+    <a href="https://github.com/g4nor4">
+      <img
+        src="https://avatars.githubusercontent.com/u/48574832?s=96&v=4"
+        width="100px;"
+        alt="Samuel Nogueira Bacelar"
+        />
+      <sub>
+        <b>Nora</b>
+      </sub>
+    </a>
+  </td>
 
 
 <!-- ------INSIRA SUA CONTRIBUICAO ACIMA DESTA LINHA -->
