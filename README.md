@@ -912,7 +912,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         alt="Samuel Nogueira Bacelar"
         />
       <sub>
-        <b>Nora</b>
+        <b>Samuel Nogueira Bacelar</b>
       </sub>
     </a>
   </td>
