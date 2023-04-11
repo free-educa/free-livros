@@ -561,6 +561,13 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Python para Todos - Explorando Dados com Python](https://github.com/g4nor4/books/blob/main/books/Python%20para%20Todos.pdf)
 
+
+```markdown
+--- Requisitos de Software:
+```
+- [User Stories Appplied](https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf)
+- [Agile Software Requirements Lean Requirements Practices for Teams, Programs, and the Enterprise](https://github.com/free-educa/books/blob/main/books/Agile%20Software%20Requirements%20Lean%20Requirements%20Practices%20for%20Teams%2C%20Programs%2C%20and%20the%20Enterprise%20by%20Dean%20Leffingwell%20(z-lib.org).pdf)
+
 ```markdown
 --- Ruby:
 ```
@@ -894,6 +901,18 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         />
       <sub>
         <b>Nora</b>
+      </sub>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/g4nor4">
+      <img
+        src="https://avatars.githubusercontent.com/u/48574832?s=96&v=4"
+        width="100px;"
+        alt="Samuel Nogueira Bacelar"
+        />
+      <sub>
+        <b>Samuel Nogueira Bacelar</b>
       </sub>
     </a>
   </td>
