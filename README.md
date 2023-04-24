@@ -637,20 +637,11 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [opengl.ppt](https://github.com/free-educa/books/blob/main/books/opengl.ppt)
 
-### Idealizadores ✨
+## Contribuidores
 
---------------------------
+### Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CONTRIBUTING.md)].
 <table>
   <tr>
-    <td align="center">
-       <a href="https://github.com/danrigoni">
-         <img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"                width="100px;"alt="danrigoni" />
-     </br>
-     <sub>
-         <b>danrigoni</b>
-       </sub>
-     </a>
-   </td>
    <td align="center">
      <a href="https://github.com/tiagoGottardo">
         <img
@@ -662,15 +653,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       </sub>
       </a>
       </td>
-  
-  </tr>
-  </table>
-
-## Contribuidores
-
-### Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CONTRIBUTING.md)].
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/leandroembu">
         <img
