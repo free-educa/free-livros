@@ -1,4 +1,5 @@
 ## Free Livros
+
 Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível.
 
 O Free Livros disponibiliza conteúdo de dominio publico e
@@ -21,7 +22,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 ## Desfrute do nosso acervo de livros
 
-
 ```markdown
 --- Algoritmos:
 ```
@@ -37,6 +37,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Arquitetura:
 ```
+
 - [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software%20-%20Casa%20do%20Codigo.pdf)
 
 - [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software.pdf)
@@ -58,8 +59,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [DevOps na prática - entrega de software confiável e automatizada](https://github.com/free-educa/books/blob/main/books/DevOps%20na%20pr%C3%A1tica%20-%20entrega%20de%20software%20confi%C3%A1vel%20e%20automatizada%20-%20Casa%20do%20Codigo.pdf)
 
 - [Jenkins - Automatize tudo sem complicacoes](https://github.com/free-educa/books/blob/main/books/Jenkins%20-%20%20Automatize%20tudo%20sem%20complicacoes.pdf)
-
-
 
 ```markdown
 --- Back-end:
@@ -152,6 +151,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Calculo:
 ```
+
 - [Cálculo I](https://github.com/free-educa/books/blob/main/books/C%C3%A1lculo%20I.pdf)
 
 - [Introducao ao Calculo Diferencial](https://github.com/free-educa/books/blob/main/books/Introducao%20ao%20Calculo%20Diferencial.pdf)
@@ -175,6 +175,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Design:
 ```
+
 - [Conhecendo o Adobe Photoshop CS6](https://github.com/free-educa/books/blob/main/books/Conhecendo%20o%20Adobe%20Photoshop%20CS6%20-%20Casa%20do%20Codigo.pdf)
 
 - [Conhecendo o Adobe Photoshop CS6 ](https://github.com/free-educa/books/blob/main/books/Conhecendo%20o%20Adobe%20Photoshop%20CS6%20.pdf)
@@ -235,7 +236,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Jogos Android - Crie um game do zero usando classes nativas](https://github.com/free-educa/books/blob/main/books/Jogos%20Android%20-%20Crie%20um%20game%20do%20zero%20usando%20classes%20nativas%20-%20Casa%20do%20Codigo.pdf)
 
-
 - [Jogos em HTML5 Explore o mobile e física](https://github.com/free-educa/books/blob/main/books/Jogos%20em%20HTML5%20Explore%20o%20mobile%20e%20f%C3%ADsica%20-%20Casa%20do%20Codigo.pdf)
 
 - [Livro de Desenvolvimento de jogos 3D](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Desenvolvimento%20de%20jogos%203D.pdf)
@@ -245,6 +245,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Git:
 ```
+
 - [Controlando versões com Git e GitHub](https://github.com/free-educa/books/blob/main/books/Controlando%20vers%C3%B5es%20com%20Git%20e%20GitHub%20-%20Casa%20do%20Codigo.pdf)
 
 ```markdown
@@ -253,14 +254,13 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Programando em Go - Crie aplicações com a linguagem do Google](https://github.com/free-educa/books/blob/main/books/Programando%20em%20Go%20-%20Crie%20aplica%C3%A7%C3%B5es%20com%20a%20linguagem%20do%20Google%20-%20Casa%20do%20Codigo.pdf)
 
-
 ```markdown
 --- Hardware:
 ```
 
-- [(Albert Paul Malvino_ David J. Bates - Eletrônica Volume 2)](https://github.com/soaresinfosec/books/blob/main/books/Albert%20Paul%20Malvino_%20David%20J.%20Bates%20-%20Eletr%C3%B4nica%20Volume%202.pdf)
+- [(Albert Paul Malvino\_ David J. Bates - Eletrônica Volume 2)](https://github.com/soaresinfosec/books/blob/main/books/Albert%20Paul%20Malvino_%20David%20J.%20Bates%20-%20Eletr%C3%B4nica%20Volume%202.pdf)
 
-- [(Arduino Descomplicado) Claudio Luis Vieira Oliveira* Humberto Augusto Piovesana Zanetti - Arduino Descomplicado* Como Elaborar Projetos de Eletrônica-Érica (2015)](<https://github.com/free-educa/books/blob/main/books/(Arduino%20Descomplicado)%20Claudio%20Luis%20Vieira%20Oliveira_%20Humberto%20Augusto%20Piovesana%20Zanetti%20-%20Arduino%20Descomplicado_%20Como%20Elaborar%20Projetos%20de%20Eletr%C3%B4nica-%C3%89rica%20(2015).pdf>)
+- [(Arduino Descomplicado) Claudio Luis Vieira Oliveira* Humberto Augusto Piovesana Zanetti - Arduino Descomplicado* Como Elaborar Projetos de Eletrônica-Érica (2015)](https://quaq.me/free-livros/arduino-descomplicado-claudio-luis-vieira-oliveira-humberto-augusto-piovesana-zanetti-arduino-descomplicado-como-elaborar-projetos-de-eletronica-erica-2015)
 
 - [(Make\_ Projects) Massimo Banzi - Getting Started with Arduino -Make (2008)](<https://github.com/free-educa/books/blob/main/books/(Make_%20Projects)%20Massimo%20Banzi%20-%20Getting%20Started%20with%20Arduino%20-Make%20(2008).pdf>)
 
@@ -293,7 +293,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```
 
 - [Inteligência Artificial](https://github.com/free-educa/books/blob/main/books/Intelig%C3%AAncia%20Artificial.pdf)
-
 
 - [Livro de Inteligência Artificial](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Intelig%C3%AAncia%20Artificial.pdf)
 
@@ -419,7 +418,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Sistemas:
 ```
 
-- [(Embedded Technology) Chris Nagy - Embedded Systems Design Using the TI MSP430 Series-Newnes (2003)](<https://github.com/free-educa/books/blob/main/books/(Embedded%20Technology)%20Chris%20Nagy%20-%20Embedded%20Systems%20Design%20Using%20the%20TI%20MSP430%20Series-Newnes%20(2003).pdf>)
+- [(Embedded Technology) Chris Nagy - Embedded Systems Design Using the TI MSP430 Series-Newnes (2003)](https://quaq.me/free-livros/embedded-technology-chris-nagy-embedded-systems-design-using-the-ti-msp430-series-newnes-2003)
 
 - [(EngineeringPro collection) Dan Harres (Auth.) - Msp430-based Robot Applications. A Guide to Developing Embedded Systems-Newnes (2013)](<https://github.com/free-educa/books/blob/main/books/(EngineeringPro%20collection)%20Dan%20Harres%20(Auth.)%20-%20Msp430-based%20Robot%20Applications.%20A%20Guide%20to%20Developing%20Embedded%20Systems-Newnes%20(2013).pdf>)
 
@@ -481,7 +480,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Crypto101](https://github.com/free-educa/books/blob/main/books/Crypto101.pdf)
 
-
 ```markdown
 --- Mobile:
 ```
@@ -503,6 +501,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Nuvem:
 ```
+
 - [Google App Engine - Construindo Servicos na Nuvem](https://github.com/free-educa/books/blob/main/books/Google%20App%20Engine%20-%20Construindo%20Servicos%20na%20Nuvem.pdf)
 
 ```markdown
@@ -561,16 +560,17 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Python para Todos - Explorando Dados com Python](https://github.com/g4nor4/books/blob/main/books/Python%20para%20Todos.pdf)
 
-
 ```markdown
 --- Requisitos de Software:
 ```
+
 - [User Stories Appplied](https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf)
-- [Agile Software Requirements Lean Requirements Practices for Teams, Programs, and the Enterprise](https://github.com/free-educa/books/blob/main/books/Agile%20Software%20Requirements%20Lean%20Requirements%20Practices%20for%20Teams%2C%20Programs%2C%20and%20the%20Enterprise%20by%20Dean%20Leffingwell%20(z-lib.org).pdf)
+- [Agile Software Requirements Lean Requirements Practices for Teams, Programs, and the Enterprise](<https://github.com/free-educa/books/blob/main/books/Agile%20Software%20Requirements%20Lean%20Requirements%20Practices%20for%20Teams%2C%20Programs%2C%20and%20the%20Enterprise%20by%20Dean%20Leffingwell%20(z-lib.org).pdf>)
 
 ```markdown
 --- Ruby:
 ```
+
 - [Ruby - Aprenda a programar na linguagem mais divertida](https://github.com/free-educa/books/blob/main/books/Ruby%20-%20Aprenda%20a%20programar%20na%20linguagem%20mais%20divertida%20-%20Casa%20do%20Codigo.pdf)
 
 - [Ruby - Aprenda a programar na linguagem mais divertida](https://github.com/free-educa/books/blob/main/books/Ruby%20-%20Aprenda%20a%20programar%20na%20linguagem%20mais%20divertida.pdf)
@@ -588,6 +588,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- SCRUM:
 ```
+
 - [Scrum 360 Um guia completo e prático de agilidade](https://github.com/free-educa/books/blob/main/books/Scrum%20360%20Um%20guia%20completo%20e%20pra%CC%81tico%20de%20agilidade.pdf)
 
 - [Scrum Gestão ágil para projetos de sucesso](https://github.com/free-educa/books/blob/main/books/Scrum%20Gest%C3%A3o%20%C3%A1gil%20para%20projetos%20de%20sucesso.pdf)
@@ -603,6 +604,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [Seguranca em aplicacoes Web](https://github.com/free-educa/books/blob/main/books/Seguranca%20em%20aplicacoes%20Web.pdf)
 
 - [Web security](https://github.com/free-educa/books/blob/main/books/wstg-v4.1.pdf)
+
 ```markdown
 --- Virtualbox:
 ```
@@ -640,6 +642,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ## Contribuidores
 
 ### Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CONTRIBUTING.md)].
+
 <table>
   <tr>
    <td align="center">
@@ -899,7 +902,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
     </a>
   </td>
 
-
 <!-- ------INSIRA SUA CONTRIBUICAO ACIMA DESTA LINHA -->
 </table>
  </tr>
@@ -919,4 +921,3 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
     </td> -->
   </tr>
 </table>
-
