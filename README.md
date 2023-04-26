@@ -442,7 +442,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Melhorando nossas skills:
 ```
 
-- [Codigo Limpo - Completo PT](https://github.com/free-educa/books/blob/main/books/Codigo%20Limpo%20-%20Completo%20PT.pdf)
+- [Codigo Limpo - Completo PT](https://quaq.me/free-livros/codigo-limpo-completo-pt)
 
 - [SEO Prático Seu site na primeira página das buscas](https://github.com/free-educa/books/blob/main/books/SEO%20Pr%C3%A1tico%20Seu%20site%20na%20primeira%20p%C3%A1gina%20das%20buscas.pdf)
 
