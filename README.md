@@ -378,6 +378,12 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Meteor - Criando aplicações web real-time com JavaScript](https://github.com/free-educa/books/blob/main/books/Meteor%20-%20Criando%20aplica%C3%A7%C3%B5es%20web%20real-time%20com%20JavaScript%20-%20Casa%20do%20Codigo.pdf)
 
+- [Estruturas de dados e algoritmos com JavaScript - Loiane Groner](https://github.com/free-educa/books/blob/main/books/Estruturas%20de%20dados%20e%20algoritmos%20com%20JavaScript%20(Loiane%20Groner)%20.pdf)
+
+- [Primeiros passos com React - Stoyan Stefanov](https://github.com/free-educa/books/blob/main/books/Primeiros%20passos%20com%20React%20(Stoyan%20Stefanov)%20.pdf)
+
+- [JavaScript de Alto Desempenho - Nicholas C. Zakas](https://github.com/free-educa/books/blob/main/books/JavaScript%20de%20Alto%20Desempenho%20(Nicholas%20C.%20Zakas)%20.pdf)
+
 ```markdown
 --- Linux:
 ```
@@ -901,6 +907,19 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       </sub>
     </a>
   </td>
+    <td align="center">
+    <a href="https://github.com/AndreyMateus">
+      <img
+        src="https://avatars.githubusercontent.com/u/68996182?v=4"
+        width="100px;"
+        alt="Andrey Mateus"
+        />
+      <sub>
+        <b>Andrey Mateus</b>
+      </sub>
+    </a>
+  </td>
+  
 
 <!-- ------INSIRA SUA CONTRIBUICAO ACIMA DESTA LINHA -->
 </table>
