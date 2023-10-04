@@ -126,8 +126,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [C - Completo e Total](https://github.com/0ortiz/books/blob/main/books/C-Completo-Total.pdf)
 
-- [C# e Orientação a Objetos - Caelum, FN-13](https://github.com/free-educa/books/blob/main/books/C%23%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Caelum%2C%20FN-13.pdf)
-
 - [Introdução à Programação em C++](https://luksamuk.codes/files/treinamento-cpp.pdf)
 
 - [Programação Básica em C++](https://www.inf.ufpr.br/ci208/NotasAula.pdf)
@@ -136,17 +134,25 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Introdução à programação em C - Os primeiros passos de um desenvolvedor](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20em%20C%20-%20Os%20primeiros%20passos%20de%20um%20desenvolvedor.pdf)
 
-- [Test Driven Development - Teste e Design no Mundo Real com DotNet](https://github.com/free-educa/books/blob/main/books/Test%20Driven%20Development%20-%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20DotNet%20-%20Casa%20do%20Codigo.pdf)
-
 - [Test-Driven Development - Teste e Design no Mundo Real](https://github.com/free-educa/books/blob/main/books/Test-Driven%20Development%20-%20Teste%20e%20Design%20no%20Mundo%20Real%20-%20Casa%20do%20Codigo.pdf)
-
-- [Everton Coimbra de Araújo - Asp.NET Core MVC - Aplicações Modernas em Conjunto com o Entity Framework](https://github.com/free-educa/books/blob/main/books/Everton%20Coimbra%20de%20Ara%C3%BAjo%20-%20Asp.NET%20Core%20MVC%20-%20%20Aplica%C3%A7%C3%B5es%20Modernas%20em%20Conjunto%20com%20o%20Entity%20Framework.pdf)
 
 - [Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis](https://github.com/free-educa/books/blob/main/books/Orienta%C3%A7%C3%A3o%20a%20Objetos%20e%20SOLID%20para%20Ninjas%20Projetando%20classes%20flex%C3%ADveis%20-%20Casa%20do%20Codigo.pdf)
 
 - [Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis](https://github.com/free-educa/books/blob/main/books/Orienta%C3%A7%C3%A3o%20a%20Objetos%20e%20SOLID%20para%20Ninjas%20Projetando%20classes%20flex%C3%ADveis.pdf)
 
 - [Michael J Pont - Embedded C-Addison-Wesley Professional (2002)](<https://github.com/free-educa/books/blob/main/books/Michael%20J%20Pont%20-%20Embedded%20C-Addison-Wesley%20Professional%20(2002).pdf>)
+
+```markdown
+--- C# e complementos:
+```
+
+- [C# Para Iniciantes - livrocsharp.com.br](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf)
+
+- [C# e Orientação a Objetos - Caelum, FN-13](https://github.com/free-educa/books/blob/main/books/C%23%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Caelum%2C%20FN-13.pdf)
+
+- [Test Driven Development - Teste e Design no Mundo Real com DotNet](https://github.com/free-educa/books/blob/main/books/Test%20Driven%20Development%20-%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20DotNet%20-%20Casa%20do%20Codigo.pdf)
+
+- [Everton Coimbra de Araújo - Asp.NET Core MVC - Aplicações Modernas em Conjunto com o Entity Framework](https://github.com/free-educa/books/blob/main/books/Everton%20Coimbra%20de%20Ara%C3%BAjo%20-%20Asp.NET%20Core%20MVC%20-%20%20Aplica%C3%A7%C3%B5es%20Modernas%20em%20Conjunto%20com%20o%20Entity%20Framework.pdf)
 
 ```markdown
 --- Calculo:
@@ -916,6 +922,18 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
         />
       <sub>
         <b>Andrey Mateus</b>
+      </sub>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/fredimachado">
+      <img
+        src="https://avatars.githubusercontent.com/u/29800?v=4"
+        width="100px;"
+        alt="Fredi Machado"
+        />
+      <sub>
+        <b>Fredi Machado</b>
       </sub>
     </a>
   </td>
