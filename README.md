@@ -130,6 +130,12 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Programação Básica em C++](https://www.inf.ufpr.br/ci208/NotasAula.pdf)
 
+- [C++ Concurrency in Action](https://github.com/free-educa/books/blob/main/books/C%2B%2B%20Concurrency%20in%20Action.pdf)
+
+- [C++20 for Programmers - An Objects-Natural Approach](https://github.com/free-educa/books/blob/main/books/C%2B%2B20%20for%20Programmers_%20An%20Objects-Natural%20Approach.pdf)
+
+- [Effective Modern C++](https://github.com/free-educa/books/blob/main/books/Effective%20Modern%20C%2B%2B.pdf)
+
 - [Michael Barr - Programming Embedded Systems in C and C ++-O_Reilly Media (1999)](<https://github.com/free-educa/books/blob/main/books/Michael%20Barr%20-%20Programming%20Embedded%20Systems%20in%20C%20and%20C%20%2B%2B-O_Reilly%20Media%20(1999).pdf>)
 
 - [Introdução à programação em C - Os primeiros passos de um desenvolvedor](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20em%20C%20-%20Os%20primeiros%20passos%20de%20um%20desenvolvedor.pdf)
@@ -828,6 +834,19 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       </a>
       </tr>
     </td>
+    <td align="center">
+    <a href="https://github.com/wi2david">
+      <img
+        src="https://avatars.githubusercontent.com/u/132403917?v=4"
+        width="100px;"
+        alt="David Silva - @wi2david"
+        />
+      <br />
+      <sub>
+        <b>David S. Silva<br/>@wi2david</b>
+      </sub>
+    </a>
+  </td>
     <td align="center">
       <a href="https://github.com/rafaelmaframg">
         <img
