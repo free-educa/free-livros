@@ -132,11 +132,11 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Programação Básica em C++](https://www.inf.ufpr.br/ci208/NotasAula.pdf)
 
-- [C++ Concurrency in Action]()
+- [C++ Concurrency in Action](https://github.com/free-educa/books/blob/main/books/C%2B%2B%20Concurrency%20in%20Action.pdf)
 
-- [C++20 for Programmers - An Objects-Natural Approach]()
+- [C++20 for Programmers - An Objects-Natural Approach](https://github.com/free-educa/books/blob/main/books/C%2B%2B20%20for%20Programmers_%20An%20Objects-Natural%20Approach.pdf)
 
-- [Effective Modern C++]()
+- [Effective Modern C++](https://github.com/free-educa/books/blob/main/books/Effective%20Modern%20C%2B%2B.pdf)
 
 - [Michael Barr - Programming Embedded Systems in C and C ++-O_Reilly Media (1999)](<https://github.com/free-educa/books/blob/main/books/Michael%20Barr%20-%20Programming%20Embedded%20Systems%20in%20C%20and%20C%20%2B%2B-O_Reilly%20Media%20(1999).pdf>)
 
