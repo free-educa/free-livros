@@ -662,7 +662,20 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ### Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CONTRIBUTING.md)].
 
 <table>
-  <tr>
+   <tr>
+     <td align="center">
+     <a href="https://github.com/brenomorp">
+       <img
+         src="https://avatars.githubusercontent.com/u/85278831?v=4"
+         width="100px;"
+         alt="Breno Moreira"
+         />
+        <br />
+        <sub>
+         <b>Breno Moreira</b>
+        </sub>
+     </a>
+   </td>
    <td align="center">
      <a href="https://github.com/tiagoGottardo">
         <img
