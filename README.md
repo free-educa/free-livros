@@ -460,7 +460,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Melhorando nossas skills:
 ```
 
-- [Codigo Limpo - Completo PT](https://quaq.me/free-livros/codigo-limpo-completo-pt)
+- [Codigo Limpo - Completo PT](https://github.com/free-educa/books/blob/main/books/Codigo%20Limpo%20-%20Completo%20PT.pdf)
 
 - [SEO Prático Seu site na primeira página das buscas](https://github.com/free-educa/books/blob/main/books/SEO%20Pr%C3%A1tico%20Seu%20site%20na%20primeira%20p%C3%A1gina%20das%20buscas.pdf)
 
@@ -662,7 +662,20 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ### Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CONTRIBUTING.md)].
 
 <table>
-  <tr>
+   <tr>
+     <td align="center">
+     <a href="https://github.com/brenomorp">
+       <img
+         src="https://avatars.githubusercontent.com/u/85278831?v=4"
+         width="100px;"
+         alt="Breno Moreira"
+         />
+        <br />
+        <sub>
+         <b>Breno Moreira</b>
+        </sub>
+     </a>
+   </td>
    <td align="center">
      <a href="https://github.com/tiagoGottardo">
         <img
