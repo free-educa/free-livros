@@ -28,6 +28,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Algorithms](https://github.com/free-educa/books/blob/main/books/Algorithms.pdf)
 
+
+- [Algoritmos - Teoria e Prática Thomas H. Cormen, Charles E. Leiserson etc](https://github.com/CarlosEduardoLemos/books/blob/main/books/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20(Thomas%20H.%20Cormen%2C%20%20Charles%20E.%20Leiserson%20etc.).pdf)
+
 - [Caderno de Algoritmos](https://github.com/free-educa/books/blob/main/books/Caderno%20de%20Algoritmos.pdf)
 
 - [Estrutura de Dados, algoritmos, análise da complexidade e implementações em Java e C, C--](https://github.com/free-educa/books/blob/main/books/Estrutura%20de%20Dados%2C%20algoritmos%2C%20an%C3%A1lise%20da%20complexidade%20e%20implementa%C3%A7%C3%B5es%20em%20Java%20e%20C%2C%20C--.pdf)
