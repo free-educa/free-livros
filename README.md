@@ -41,6 +41,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Arquitetura:
 ```
 
+- [Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software](https://github.com/CarlosEduardoLemos/books/blob/main/books/Arquitetura%20Limpa%20-%20O%20Guia%20do%20Artes%C3%A3o%20para%20Estrutura%20e%20Design%20de%20Software%20(Robert%20C.%20Martin)%20(z-lib.org).pdf)
+
 - [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software%20-%20Casa%20do%20Codigo.pdf)
 
 - [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software.pdf)
@@ -62,6 +64,14 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [DevOps na prática - entrega de software confiável e automatizada](https://github.com/free-educa/books/blob/main/books/DevOps%20na%20pr%C3%A1tica%20-%20entrega%20de%20software%20confi%C3%A1vel%20e%20automatizada%20-%20Casa%20do%20Codigo.pdf)
 
 - [Jenkins - Automatize tudo sem complicacoes](https://github.com/free-educa/books/blob/main/books/Jenkins%20-%20%20Automatize%20tudo%20sem%20complicacoes.pdf)
+
+- [DevOps nativo de nuvem com Kubernetes](https://github.com/CarlosEduardoLemos/books/blob/main/books/DevOps%20nativo%20de%20nuvem%20com%20Kubernetes%20(Justin%20Domingus%20John%20Arundel%20%5BDomingus%20etc.)%20(z-lib.org).pdf)
+
+- [Elasticsearch consumindo dados real time com ELK](https://github.com/CarlosEduardoLemos/books/blob/main/books/Elasticsearch%20consumindo%20dados%20real%20time%20com%20ELK%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
+
+- [Jenkins - Automatize tudo sem complicações](https://github.com/CarlosEduardoLemos/books/blob/main/books/Jenkins%20-%20Automatize%20tudo%20sem%20complica%C3%A7%C3%B5es%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
+
+- [Kubernetes - Tudo sobre orquestração de contêineres](https://github.com/CarlosEduardoLemos/books/blob/main/books/Kubernetes%20-%20Tudo%20sobre%20orquestra%C3%A7%C3%A3o%20de%20cont%C3%AAineres%20(Lucas%20Santos)%20(z-lib.org).pdf)
 
 ```markdown
 --- Back-end:
@@ -602,6 +612,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Refatorando com padroes de projeto - Um guia em ruby](https://github.com/free-educa/books/blob/main/books/Refatorando%20com%20padroes%20de%20projeto%20-%20Um%20guia%20em%20ruby.pdf)
 
+- [Refatoração - Fowler, Martin](https://github.com/CarlosEduardoLemos/books/blob/main/books/Refatora%C3%A7%C3%A3o%20(Fowler%2C%20Martin)%20(z-lib.org).pdf)
+
 - [Cucumber e RSpec Construa aplicações Ruby com testes e especificações](https://github.com/free-educa/books/blob/main/books/Cucumber%20e%20RSpec%20Construa%20aplica%C3%A7%C3%B5es%20Ruby%20com%20testes%20e%20especifica%C3%A7%C3%B5es%20-%20Casa%20do%20Codigo.pdf)
 
 - [Cucumber e RSpec Construa aplicações Ruby com testes e especificações](https://github.com/free-educa/books/blob/main/books/Cucumber%20e%20RSpec%20Construa%20aplica%C3%A7%C3%B5es%20Ruby%20com%20testes%20e%20especifica%C3%A7%C3%B5es.pdf)
@@ -620,11 +632,15 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [MundoJ Segurança com Java](https://github.com/free-educa/books/blob/main/books/MundoJ%20Seguran%C3%A7a%20com%20Java%20-%20Casa%20do%20Codigo.pdf)
 
-- [MundoJ Segurança com Java](https://github.com/free-educa/books/blob/main/books/MundoJ%20Seguran%C3%A7a%20com%20Java.pdf)
+-[Cyberjutsu](https://github.com/CarlosEduardoLemos/books/blob/main/books/Cyberjutsu.pdf)
+
+- [Técnicas de Invasão Aprenda as técnicas usadas por hackers em invasões reais](https://github.com/CarlosEduardoLemos/books/blob/main/books/T%C3%A9cnicas%20de%20Invas%C3%A3o%20Aprenda%20as%20t%C3%A9cnicas%20usadas%20por%20hackers%20em%20invas%C3%B5es%20reais%20(Bruno%20Fraga)%20(z-lib.org).pdf)
 
 - [Seguranca em aplicacoes Web](https://github.com/free-educa/books/blob/main/books/Seguranca%20em%20aplicacoes%20Web.pdf)
 
 - [Web security](https://github.com/free-educa/books/blob/main/books/wstg-v4.1.pdf)
+
+- [Hacking Para Leigos](https://github.com/CarlosEduardoLemos/books/blob/main/books/Hacking%20Para%20Leigos%20(Kevin%20Beaver)%20(z-lib.org).pdf)
 
 ```markdown
 --- Virtualbox:
