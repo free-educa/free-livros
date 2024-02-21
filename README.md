@@ -320,6 +320,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [Inteligência Artificial](https://github.com/free-educa/books/blob/main/books/Intelig%C3%AAncia%20Artificial.pdf)
 
 - [Livro de Inteligência Artificial](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Intelig%C3%AAncia%20Artificial.pdf)
+- [Inteligência Artificial Uma Abordagem Moderna - 4&#170 Edição (Versão Inglês)](https://github.com/free-educa/books/blob/main/books/Intelig%C3%AAncia%20Artificial%20Uma%20Abordagem%20Moderna%20-%204%C2%AA%20Edi%C3%A7%C3%A3o%20(Vers%C3%A3o%20Ingl%C3%AAs).pdf)
 
 ```markdown
 --- Java:
@@ -993,6 +994,21 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
       </sub>
     </a>
   </td>
+
+  <td align="center">
+    <a href="https://github.com/JennyferLima">
+      <img
+        src="https://avatars.githubusercontent.com/u/32622359?v=4"
+        width="100px;"
+        alt="Jennyfer Lima"
+        />
+      <br />
+      <sub>
+        <b>Jennyfer Lima</b>
+      </sub>
+    </a>
+  </td>
+
   
 
 <!-- ------INSIRA SUA CONTRIBUICAO ACIMA DESTA LINHA -->
