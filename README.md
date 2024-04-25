@@ -55,6 +55,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Caixa de Ferramentas DevOps Um guia para construcao, administracao e arquitetura de sistemas modernos](https://github.com/free-educa/books/blob/main/books/Caixa%20de%20Ferramentas%20DevOps%20Um%20guia%20para%20construcao%2C%20administracao%20e%20arquitetura%20de%20sistemas%20modernos%20-%20Casa%20do%20Codigo.pdf)
 
+- [UML 2 - Uma Abordagem Prática - Autor (Gilleanes Guedes)](https://github.com/free-educa/books/blob/main/books/UML%202%20-%20Uma%20Abordagem%20Pr%C3%A1tica%20-%20Autor%20(Gilleanes%20Guedes).pdf)
+
 ```markdown
 --- Automação:
 ```
@@ -381,6 +383,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [Spring MVC Domine o principal framework web Java](https://github.com/free-educa/books/blob/main/books/Spring%20MVC%20Domine%20o%20principal%20framework%20web%20Java%20-%20Casa%20do%20Codigo.pdf)
 
 - [Vire o jogo com Spring Framework](https://github.com/free-educa/books/blob/main/books/Vire%20o%20jogo%20com%20Spring%20Framework.pdf)
+
+- [Java - A Beginner's Guide, Sixth Edition - Autor (Herbert Schildt)](https://github.com/free-educa/books/blob/main/books/Java%20-%20A%20Beginner's%20Guide%2C%20Sixth%20Edition%20-%20Autor%20(Herbert%20Schildt).pdf)
 
 ```markdown
 --- Javascript:
