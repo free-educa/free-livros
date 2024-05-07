@@ -75,6 +75,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Kubernetes - Tudo sobre orquestração de contêineres](https://github.com/free-educa/books/blob/main/books/Kubernetes%20-%20Tudo%20sobre%20orquestra%C3%A7%C3%A3o%20de%20cont%C3%AAineres%20(Lucas%20Santos)%20(z-lib.org).pdf)
 
+- [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
+
 ```markdown
 --- Back-end:
 ```
