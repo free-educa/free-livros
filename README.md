@@ -75,6 +75,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Kubernetes - Tudo sobre orquestração de contêineres](https://github.com/free-educa/books/blob/main/books/Kubernetes%20-%20Tudo%20sobre%20orquestra%C3%A7%C3%A3o%20de%20cont%C3%AAineres%20(Lucas%20Santos)%20(z-lib.org).pdf)
 
+- [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
+
 ```markdown
 --- Back-end:
 ```
@@ -711,6 +713,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 |:---:|:---:|:---:|:---:|:---:|
 | [Edkallenn Lima](https://github.com/ed1rac) | [Alley Pereira](https://github.com/all3yp) | [Wendel Ortiz](https://github.com/0ortiz) | [Lemostrash](https://github.com/lemostrash) | [Gabi Nora](https://github.com/g4nor4) |
 
-| ![Samuel Nogueira Bacelar](https://avatars.githubusercontent.com/u/48574832?s=96&v=4) | ![Andrey Mateus](https://avatars.githubusercontent.com/u/68996182?v=4) | ![Fredi Machado](https://avatars.githubusercontent.com/u/29800?v=4) | ![Jennyfer Lima](https://avatars.githubusercontent.com/u/32622359?v=4) |
-|:---:|:---:|:---:|:---:|
-| [Samuel Nogueira Bacelar](https://github.com/g4nor4) | [Andrey Mateus](https://github.com/AndreyMateus) | [Fredi Machado](https://github.com/fredimachado) | [Jennyfer Lima](https://github.com/Jenny
+| ![Samuel Nogueira Bacelar](https://avatars.githubusercontent.com/u/48574832?s=96&v=4) | ![Andrey Mateus](https://avatars.githubusercontent.com/u/68996182?v=4) | ![Fredi Machado](https://avatars.githubusercontent.com/u/29800?v=4) | ![Jennyfer Lima](https://avatars.githubusercontent.com/u/32622359?v=4) | ![Diego Faria](https://avatars.githubusercontent.com/u/21007712?v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Samuel Nogueira Bacelar](https://github.com/g4nor4) | [Andrey Mateus](https://github.com/AndreyMateus) | [Fredi Machado](https://github.com/fredimachado) | [Jennyfer Lima](https://github.com/Jenny) | [Diego Faria](https://github.com/diegodrf)
