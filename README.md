@@ -654,6 +654,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Hacking Para Leigos](https://github.com/free-educa/books/blob/main/books/Hacking%20Para%20Leigos%20(Kevin%20Beaver)%20(z-lib.org).pdf)
 
+- [E-book sobre LGPD](https://github.com/hugozuin/books/blob/main/books/DotNETFrameworkNotesForProfessionals.pdf).
+
 ```markdown
 --- Virtualbox:
 ```
